@@ -1,8 +1,7 @@
 def add(x,y):
     return x+y
 
+# num1 = int(input("Enter first number: "))
+# num2 = int(input("Enter second number: "))
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
-
-print("Addition: {} + {} = {}".format(num1,num2,add(num1,num2)))
+# print("Addition: {} + {} = {}".format(num1,num2,add(num1,num2)))
